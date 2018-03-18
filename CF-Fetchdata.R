@@ -42,6 +42,7 @@ f <- function(l) {
   do.call('rbind', lapply(l, function(x) `length<-`(x, max(lengths(l)))))
 }
 
+
 lapply(filings[1:2,], f)
 
 filings[1:5,2:4]
