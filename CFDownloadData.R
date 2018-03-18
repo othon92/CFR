@@ -28,10 +28,11 @@ message("")
 
 leaderboard <- rbind_pages(pages)
 
-### Flatten the scores and append it (create new columns) to the dataframe
-message("Flattening scores... ")
+### Flaten the scores and append it (create new columns) to the dataframe
+message("Flatening scores... ")
 
 oldScores = leaderboard$scores
+newScoresList <- list() 
 newScores <- data.frame()
 
 lengthOldScores = length(oldScores)
@@ -40,8 +41,10 @@ for(i in 1:lengthOldScores) {
   rOldScores <- oldScores[i]
   rNewScores <- unlist(rOldScores, recursive = TRUE)
   names(rNewScores) <- gsub("(\\d)","\\.\\1",names(rNewScores))
-  newScores <- rbind.fill(newScores, as.data.frame(t(rNewScores)))
+  newScoresList[[i]] <- as.data.frame(t(rNewScores))
+  #newScores <- rbind.fill(newScores, as.data.frame(t(rNewScores)))
 }
+newScores <- rbind_pages(newScoresList)
 message("")
 newLeaderboard <- cbind(leaderboard, newScores)
 
