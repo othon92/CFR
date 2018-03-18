@@ -1,0 +1,20 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1521365080149.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "3222753411",
+    "id" : "61F2DFA0",
+    "lastKnownWriteTime" : 1521126543,
+    "last_content_update" : 1521126543,
+    "path" : "I:/Workspace Github/CFR/CF-plot.SCT.R",
+    "project_path" : "CF-plot.SCT.R",
+    "properties" : {
+    },
+    "relative_order" : 6,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

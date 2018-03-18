@@ -1,0 +1,23 @@
+
+https://github.com/raybellwaves/cfanalytics/tree/master/Data
+
+##############################################
+
+Men worlwide RX
+https://games.crossfit.com/competitions/api/v1/competitions/open/2018/leaderboards?division=1&region=0&scaled=0&sort=0&occupation=0&page=1
+
+
+
+##############################################
+
+
+Men worlwide RX => brouste
+https://games.crossfit.com/competitions/api/v1/competitions/open/2018/leaderboards?division=1&region=0&athlete=1309535&athlete_display=Frederic+Brouste&scaled=0&sort=0&occupation=0
+
+Men worlwide RX / 40-44
+https://games.crossfit.com/competitions/api/v1/competitions/open/2018/leaderboards?division=12&region=0&scaled=0&sort=0&occupation=0&page=1
+
+
+Men worlwide RX / 40-44 / Europe South
+https://games.crossfit.com/competitions/api/v1/competitions/open/2018/leaderboards?division=12&region=24&scaled=0&sort=0&occupation=0&page=1
+

@@ -1,0 +1,22 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1521364975441.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "4A54234B",
+    "lastKnownWriteTime" : 1521025775,
+    "last_content_update" : 1521025775,
+    "path" : "I:/Workspace Github/CFR/CF_test.SCT.R",
+    "project_path" : "CF_test.SCT.R",
+    "properties" : {
+        "cursorPosition" : "1,0",
+        "scrollLine" : "0"
+    },
+    "relative_order" : 4,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
