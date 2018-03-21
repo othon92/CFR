@@ -1,0 +1,6 @@
+for(i in 1:5) {
+  message("toto ", i, "\r", appendLF = FALSE)
+  Sys.sleep(2)
+}
+message("")
+message("youpla")

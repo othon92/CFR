@@ -1,0 +1,22 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1521447257091.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "3366828328",
+    "id" : "6A77BD1B",
+    "lastKnownWriteTime" : 1521551602,
+    "last_content_update" : 1521551602895,
+    "path" : "D:/WS-Code/CFR/CFDownloadData.R",
+    "project_path" : "CFDownloadData.R",
+    "properties" : {
+        "cursorPosition" : "96,35",
+        "scrollLine" : "90"
+    },
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

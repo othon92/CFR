@@ -1,2 +1,5 @@
 
 *.SCT.*
+*.csv
+.RData
+*.csv

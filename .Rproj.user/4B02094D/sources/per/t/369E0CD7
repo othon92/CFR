@@ -1,0 +1,22 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1521470213928.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "620576638",
+    "id" : "369E0CD7",
+    "lastKnownWriteTime" : 1521475146,
+    "last_content_update" : 1521475146733,
+    "path" : "D:/WS-Code/CFR/test-plot.R",
+    "project_path" : "test-plot.R",
+    "properties" : {
+        "cursorPosition" : "53,33",
+        "scrollLine" : "55"
+    },
+    "relative_order" : 2,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
