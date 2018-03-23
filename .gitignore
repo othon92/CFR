@@ -1,5 +1,8 @@
-
 *.SCT.*
 *.csv
 .RData
 *.csv
+.Rproj.user
+CF-rawdata.csv
+CF-rawdata.csv
+dump.tmp

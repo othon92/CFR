@@ -2,22 +2,5 @@
 (https://map.crossfit.com)
 https://map.crossfit.com/getAllAffiliates.php
 
-        div_dict = {'1':"Men",
-                    '2':"Women",
-                    '3':"Men_45-49",
-                    '4':"Women_45-49",
-                    '5':"Men_50-54",
-                    '6':"Women_50-54",
-                    '7':"Men_55-59",
-                    '8':"Women_55-59",
-                    '9':"Men_60+",
-                    '10':"Women_60+",
-                    '11':"Team",
-                    '12':"Men_40-44",
-                    '13':"Women_40-44",
-                    '14':"Boys_14-15",
-                    '15':"Girls_14-15",
-                    '16':"Boys_16-17",
-                    '17':"Girls_16-17",
-                    '18':"Men_35-39",
-                    '19':"Women_35-39"}
+https://github.com/raybellwaves/cfanalytics/tree/master/Data
+
