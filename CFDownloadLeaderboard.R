@@ -233,5 +233,5 @@ cfDownloadLeaderboard <- function(year = "2018",
 
 }
 
-#cfDownloadLeaderboard(year = "2017")
+cfDownloadLeaderboard(year = "2017")
 
